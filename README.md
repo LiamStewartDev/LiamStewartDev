@@ -2,7 +2,7 @@
 ### My name is Liam Stewart, I am a passionate Web Developer located in the San Francisco Bay Area.
 <br>
 <!-- <a href="https://www.linkedin.com/in/liamstewartdev/">
-    <img alt="Liam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+    <img alt="Liam's LinkedIn" width="22px" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif"/>
 </a> -->
 
 <!-- ## Languages and tools: 
