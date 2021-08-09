@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello, World_ <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="25px">
+### My name is Liam Stewart, I am a passionate Web Developer located in the San Francisco Bay Area.
+<br>
+<!-- <a href="https://www.linkedin.com/in/liamstewartdev/">
+    <img alt="Liam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+</a> -->
+
+<!-- ## Languages and tools: 
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> -->
+
 
 <!--
 **LiamStewartDev/LiamStewartDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
