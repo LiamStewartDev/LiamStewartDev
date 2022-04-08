@@ -1,5 +1,5 @@
 # Hello, World_ <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px">
-### My name is Liam Stewart, I am a passionate Web Developer located in the San Francisco Bay Area.
+### My name is Liam Stewart, I am a passionate Developer located in the San Francisco Bay Area.
 <br>
 <!-- <a href="https://www.linkedin.com/in/liamstewartdev/">
     <img alt="Liam's LinkedIn" width="22px" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif"/>
